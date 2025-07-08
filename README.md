@@ -135,6 +135,7 @@ A list of Repo's/projects that helped me in someway
  - [Original Repo](https://github.com/charlesreid1/five-letter-words)
  - [Original TXT file](https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt)
  - [Readme.so](https://readme.so/editor)
+ - [Direct Parent Repo](https://github.com/cheaderthecoder/5-Letter-words)
 
 
 ## License
